@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "sucrase-node src/index.ts"
+    "dev": "sucrase-node src/mongodb/scripts/add.ts"
   },
   "devDependencies": {
     "@types/mongodb": "^4.0.7",
